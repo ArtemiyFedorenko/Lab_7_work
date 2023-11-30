@@ -1,0 +1,14 @@
+D:\codes\work\first\SevenApp\Repository\bin\Debug\net6.0\Repository.exe
+D:\codes\work\first\SevenApp\Repository\bin\Debug\net6.0\Repository.deps.json
+D:\codes\work\first\SevenApp\Repository\bin\Debug\net6.0\Repository.runtimeconfig.json
+D:\codes\work\first\SevenApp\Repository\bin\Debug\net6.0\Repository.dll
+D:\codes\work\first\SevenApp\Repository\bin\Debug\net6.0\Repository.pdb
+D:\codes\work\first\SevenApp\Repository\obj\Debug\net6.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\work\first\SevenApp\Repository\obj\Debug\net6.0\Repository.AssemblyInfoInputs.cache
+D:\codes\work\first\SevenApp\Repository\obj\Debug\net6.0\Repository.AssemblyInfo.cs
+D:\codes\work\first\SevenApp\Repository\obj\Debug\net6.0\Repository.csproj.CoreCompileInputs.cache
+D:\codes\work\first\SevenApp\Repository\obj\Debug\net6.0\Repository.dll
+D:\codes\work\first\SevenApp\Repository\obj\Debug\net6.0\refint\Repository.dll
+D:\codes\work\first\SevenApp\Repository\obj\Debug\net6.0\Repository.pdb
+D:\codes\work\first\SevenApp\Repository\obj\Debug\net6.0\Repository.genruntimeconfig.cache
+D:\codes\work\first\SevenApp\Repository\obj\Debug\net6.0\ref\Repository.dll

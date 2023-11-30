@@ -1,0 +1,14 @@
+D:\codes\work\first\SevenApp\TaskExecution\bin\Debug\net6.0\TaskExecution.exe
+D:\codes\work\first\SevenApp\TaskExecution\bin\Debug\net6.0\TaskExecution.deps.json
+D:\codes\work\first\SevenApp\TaskExecution\bin\Debug\net6.0\TaskExecution.runtimeconfig.json
+D:\codes\work\first\SevenApp\TaskExecution\bin\Debug\net6.0\TaskExecution.dll
+D:\codes\work\first\SevenApp\TaskExecution\bin\Debug\net6.0\TaskExecution.pdb
+D:\codes\work\first\SevenApp\TaskExecution\obj\Debug\net6.0\TaskExecution.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\work\first\SevenApp\TaskExecution\obj\Debug\net6.0\TaskExecution.AssemblyInfoInputs.cache
+D:\codes\work\first\SevenApp\TaskExecution\obj\Debug\net6.0\TaskExecution.AssemblyInfo.cs
+D:\codes\work\first\SevenApp\TaskExecution\obj\Debug\net6.0\TaskExecution.csproj.CoreCompileInputs.cache
+D:\codes\work\first\SevenApp\TaskExecution\obj\Debug\net6.0\TaskExecution.dll
+D:\codes\work\first\SevenApp\TaskExecution\obj\Debug\net6.0\refint\TaskExecution.dll
+D:\codes\work\first\SevenApp\TaskExecution\obj\Debug\net6.0\TaskExecution.pdb
+D:\codes\work\first\SevenApp\TaskExecution\obj\Debug\net6.0\TaskExecution.genruntimeconfig.cache
+D:\codes\work\first\SevenApp\TaskExecution\obj\Debug\net6.0\ref\TaskExecution.dll

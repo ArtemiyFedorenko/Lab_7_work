@@ -1,0 +1,14 @@
+D:\codes\work\first\SevenApp\FunctionCache\bin\Debug\net6.0\FunctionCache.exe
+D:\codes\work\first\SevenApp\FunctionCache\bin\Debug\net6.0\FunctionCache.deps.json
+D:\codes\work\first\SevenApp\FunctionCache\bin\Debug\net6.0\FunctionCache.runtimeconfig.json
+D:\codes\work\first\SevenApp\FunctionCache\bin\Debug\net6.0\FunctionCache.dll
+D:\codes\work\first\SevenApp\FunctionCache\bin\Debug\net6.0\FunctionCache.pdb
+D:\codes\work\first\SevenApp\FunctionCache\obj\Debug\net6.0\FunctionCache.GeneratedMSBuildEditorConfig.editorconfig
+D:\codes\work\first\SevenApp\FunctionCache\obj\Debug\net6.0\FunctionCache.AssemblyInfoInputs.cache
+D:\codes\work\first\SevenApp\FunctionCache\obj\Debug\net6.0\FunctionCache.AssemblyInfo.cs
+D:\codes\work\first\SevenApp\FunctionCache\obj\Debug\net6.0\FunctionCache.csproj.CoreCompileInputs.cache
+D:\codes\work\first\SevenApp\FunctionCache\obj\Debug\net6.0\FunctionCache.dll
+D:\codes\work\first\SevenApp\FunctionCache\obj\Debug\net6.0\refint\FunctionCache.dll
+D:\codes\work\first\SevenApp\FunctionCache\obj\Debug\net6.0\FunctionCache.pdb
+D:\codes\work\first\SevenApp\FunctionCache\obj\Debug\net6.0\FunctionCache.genruntimeconfig.cache
+D:\codes\work\first\SevenApp\FunctionCache\obj\Debug\net6.0\ref\FunctionCache.dll
